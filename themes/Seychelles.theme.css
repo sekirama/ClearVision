@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1e63b3;
+	--main-color: #e8f4f8;
+	--hover-color: #b22222;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/sapphire.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://img00.deviantart.net/eba5/i/2014/100/3/b/_hetalia__seychelles_by_shayna717-d7dvxbf.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
