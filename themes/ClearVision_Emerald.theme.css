@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #33e627;
-	--hover-color: #2ab31e;
+	--main-color: #ff4d4d;
+	--hover-color: #ff8da1;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/emerald.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(http://i0.kym-cdn.com/photos/images/original/001/302/948/6d8.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
