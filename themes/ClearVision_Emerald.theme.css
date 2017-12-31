@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #33e627;
-	--hover-color: #2ab31e;
+	--main-color: #4d004d;
+	--hover-color: #ccccff;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label {
-    background-image: url(https://zerthox.github.io/ClearVision/images/emerald.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://cdn.discordapp.com/attachments/345520592554033152/396920072230273034/screenshot0008.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
